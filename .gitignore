@@ -174,4 +174,7 @@ cython_debug/
 
 
 
-venv 
+venv
+env
+media
+.env
